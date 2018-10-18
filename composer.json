@@ -1,6 +1,6 @@
 {
-    "name": "gpressutto5/laravel-slack",
-    "description": "Slack notification for Laravel as it should be.",
+    "name": "danlake/laravel-slack",
+    "description": "Slack notification for Laravel as it should be. THis is simply ine installable version of the fork.",
     "keywords": ["laravel", "slack"],
     "type": "library",
     "license": "MIT",
